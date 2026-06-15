@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ardiantech/ardiantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rizal Ardianto, a Full Stack Developer from Indonesia.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full Stack Developer
+- 🌱 Currently learning Laravel, Next.js, and Cloud Infrastructure
+- 🏛 Building Government Information Systems
+- 🔐 Interested in SSO, OAuth2, and Microservices
+- 📫 Reach me: your-email@example.com
+
+## 🛠 Tech Stack
+
+### Backend
+- Laravel
+- PHP
+- CodeIgniter
+- REST API
+
+### Frontend
+- Next.js
+- React
+- Nuxt.js
+- Tailwind CSS
+
+### Database
+- PostgreSQL
+- MySQL
+
+### DevOps
+- Linux
+- Docker
+- Nginx
+- GitHub Actions
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardiantech&show_icons=true)
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiantech&layout=compact)
+
+## 📌 Featured Projects
+
+- Portal SSO DPRD
+- e-Pokir DPRD
+- SIMASET
+- e-Gaji Kabupaten Pekalongan
+
+---
+
+⭐ Always learning and building better software.

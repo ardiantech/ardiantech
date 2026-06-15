@@ -1,6 +1,8 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Rizal Ardianto</h1>
 
-I'm Rizal Ardianto, a Full Stack Developer from Indonesia.
+<h3 align="center">
+Full Stack Developer | Laravel | Next.js | CodeIgneiter
+</h3>
 
 ## 🚀 About Me
 

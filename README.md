@@ -51,12 +51,12 @@ Building modern web applications with Laravel, Next.js, and PostgreSQL
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ardiantech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/ardiantech" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rizal-ardianto">
-    <img src="https://img.shields.io/badge/LinkedIn-Rizal%20Ardianto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rizal-ardianto" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
 

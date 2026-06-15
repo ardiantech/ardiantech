@@ -31,7 +31,7 @@ Building modern web applications with Laravel, Next.js, and PostgreSQL
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,js,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts" />
 </p>
 
 ### Database

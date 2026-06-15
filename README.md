@@ -48,30 +48,16 @@ Building modern web applications with Laravel, Next.js, and PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ardiantech&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardiantech&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ardiantech&theme=tokyonight" />
-</p>
-
----
-
-
 ## 🌐 Connect With Me
 
-<p>
-<a href="https://github.com/ardiantech">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+<p align="left">
+  <a href="https://github.com/ardiantech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rizal-ardianto">
+    <img src="https://img.shields.io/badge/LinkedIn-Rizal%20Ardianto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---

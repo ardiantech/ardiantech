@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm Rizal Ardianto</h1>
+<h1 align="center">Hi, I'm Rizal Ardianto</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer from Indonesia
+Full Stack Developer from Indonesia
 </h3>
 
 <p align="center">
-Building modern web applications with Laravel, Next.js, and PostgreSQL
+Building modern web applications with Laravel, CodeIgneiter, Next.js.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on Government Information Systems
-- 🌱 Learning Cloud Infrastructure & Microservices
-- 🔐 Interested in SSO, OAuth2, and Security
-- ⚡ Passionate about Laravel Ecosystem
-- 🚀 Building scalable web applications
-
----
+- 💼 Full Stack Developer focused on building modern web applications
+- 🏛 Developing digital solutions for government and public sector organizations
+- 🔐 Experienced in SSO, OAuth2, API Development, and System Integration
+- ⚡ Working with Laravel, Next.js, CodeIgneiter, and modern web technologies
+- ☁️ Interested in Cloud Infrastructure, DevOps, and Software Architecture
+- 🚀 Passionate about creating scalable, secure, and maintainable systems
 
 ## 🛠️ Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />

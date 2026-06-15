@@ -25,7 +25,10 @@ Building modern web applications with Laravel, Next.js, and PostgreSQL
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigneiter,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
 
 ### Frontend
